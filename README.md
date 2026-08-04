@@ -7,6 +7,6 @@ This organization also hosts extensions for SillyBunny made by the devs.
 > SillyBunny is currently in active development and considered beta quality. Report specific SillyBunny issues on the main repo, and extension issues on the specific extension repos.
 
 ## Main Contributors
-- [platberlitz](https://github.com/platberlitz)
+- [platberlitz (purachina)](https://github.com/platberlitz)
 - [Geechan](https://github.com/Geechan)
-- [TheLonelyDevil9](https://github.com/TheLonelyDevil9)
+- [TheLonelyDevil9 (TLD)](https://github.com/TheLonelyDevil9)

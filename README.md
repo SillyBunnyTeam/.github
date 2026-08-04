@@ -1,6 +1,6 @@
 # SillyBunny Team 🐰
 
-We build and maintain [SillyBunny](https://github.com/SillyBunnyTeam/SillyBunny), a modernized and opinionated fork of [SillyTavern](https://github.com/SillyTavern/SillyTavern) with built-in tutorials, presets, extensions, agentic RP features, conversation mode, and more...
+We build and maintain [SillyBunny](https://github.com/SillyBunnyTeam/SillyBunny), a modernized and opinionated fork of [SillyTavern](https://github.com/SillyTavern/SillyTavern) with built-in tutorials, presets, extensions, agentic RP features, conversation mode, and more features coming in the future.
 
 This organization also hosts extensions for SillyBunny made by the devs.
 

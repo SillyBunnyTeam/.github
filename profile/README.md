@@ -22,6 +22,7 @@ This organization also hosts extensions for SillyBunny made by the devs.
 - [World Info Lab](https://github.com/SillyBunnyTeam/SillyBunny-WorldInfo-Lab) — Test, trace, and manage lorebook activation.
 - [Prompt Tags](https://github.com/SillyBunnyTeam/SillyBunny-PromptTags) — Add configurable XML-style boundaries to prompt sections.
 - [Macro Enhanced](https://github.com/SillyBunnyTeam/SillyBunny-MacroEnhanced) — Adds utility, logic, state, lorebook, and custom macros.
+- [Prompting Lab](https://github.com/SillyBunnyTeam/SillyBunny-Prompting-Lab) — A workspace tool that helps compare and contrast prompts, caching, macros, etc.
 
 ### Themes and Interface
 

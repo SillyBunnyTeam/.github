@@ -10,3 +10,23 @@ This organization also hosts extensions for SillyBunny made by the devs.
 - [platberlitz (purachina)](https://github.com/platberlitz)
 - [Geechan](https://github.com/Geechan)
 - [TheLonelyDevil9 (TLD)](https://github.com/TheLonelyDevil9)
+
+## Extensions and Projects
+
+### Character Tools
+
+- [BotSearcher](https://github.com/SillyBunnyTeam/SillyBunny-BotSearcher) — Search supported character-card sites and import cards into SillyBunny.
+
+### Prompting and Scripting
+
+- [Prompt Tags](https://github.com/SillyBunnyTeam/SillyBunny-PromptTags) — Add configurable XML-style boundaries to prompt sections.
+- [Macro Enhanced](https://github.com/SillyBunnyTeam/SillyBunny-MacroEnhanced) — Adds utility, logic, state, lorebook, and custom macros.
+
+### Themes and Interface
+
+- [Regex Agent Themes](https://github.com/SillyBunnyTeam/SillyBunny-Regex-Agent-Themes) — Customize the appearance of tracker and companion agent panels.
+
+### Forks and Adaptations
+
+- [Moonlit Echoes Theme](https://github.com/SillyBunnyTeam/SillyBunny-MoonlitEchoesTheme) — A SillyBunny-specific adaptation of the Moonlit Echoes theme.
+- [CSS Snippets](https://github.com/SillyBunnyTeam/SillyBunny-CssSnippets) — Manage reusable CSS customizations for themes, chats, and the global interface.

@@ -27,6 +27,7 @@ This organization also hosts extensions for SillyBunny made by the devs.
 ### Themes and Interface
 
 - [Regex Agent Themes](https://github.com/SillyBunnyTeam/SillyBunny-Regex-Agent-Themes) — Customize the appearance of tracker and companion agent panels.
+- [Terminal UI](https://github.com/SillyBunnyTeam/SillyBunny-Terminal-UI) — A terminal-inspired UI extension for SillyBunny.
 
 ### Forks and Adaptations
 

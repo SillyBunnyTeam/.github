@@ -23,6 +23,7 @@ This organization also hosts extensions for SillyBunny made by the devs.
 - [Prompt Tags](https://github.com/SillyBunnyTeam/SillyBunny-PromptTags) — Add configurable XML-style boundaries to prompt sections.
 - [Macro Enhanced](https://github.com/SillyBunnyTeam/SillyBunny-MacroEnhanced) — Adds utility, logic, state, lorebook, and custom macros.
 - [Prompting Lab](https://github.com/SillyBunnyTeam/SillyBunny-Prompting-Lab) — A workspace tool that helps compare and contrast prompts, caching, macros, etc.
+- [Time Machine](https://github.com/SillyBunnyTeam/SillyBunny-Time-Machine) — Check the versions of your characters, lorebooks and presets, with a comparison view and one-click restore.
 
 ### Themes and Interface
 

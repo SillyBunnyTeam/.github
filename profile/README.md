@@ -35,5 +35,5 @@ This organization also hosts extensions for SillyBunny made by the devs.
 - [CSS Snippets](https://github.com/SillyBunnyTeam/SillyBunny-CssSnippets) — Manage reusable CSS customizations for themes, chats, and the global interface.
 - [Deep Swipe](https://github.com/SillyBunnyTeam/SillyBunny-Deep-Swipe) — SillyBunny fork of Deep Swipe: regenerate or browse swipes on any message in the chat, not just the last one.
 
-### Special Thanks
+## Special Thanks
 - [platberlitz (purachina)](https://github.com/platberlitz), for initially brainstorming and starting the project, and being a very active contributor. We wish you well going forward.

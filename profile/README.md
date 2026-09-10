@@ -7,7 +7,6 @@ This organization also hosts extensions for SillyBunny made by the devs.
 > SillyBunny is currently in active development and considered beta quality. Report specific SillyBunny issues on the main repo, and extension issues on the specific extension repos.
 
 ## Main Contributors
-- [platberlitz (purachina)](https://github.com/platberlitz)
 - [Geechan](https://github.com/Geechan)
 - [TheLonelyDevil9 (TLD)](https://github.com/TheLonelyDevil9)
 
@@ -35,3 +34,6 @@ This organization also hosts extensions for SillyBunny made by the devs.
 - [Moonlit Echoes Theme](https://github.com/SillyBunnyTeam/SillyBunny-MoonlitEchoesTheme) — A SillyBunny-specific adaptation of the Moonlit Echoes theme.
 - [CSS Snippets](https://github.com/SillyBunnyTeam/SillyBunny-CssSnippets) — Manage reusable CSS customizations for themes, chats, and the global interface.
 - [Deep Swipe](https://github.com/SillyBunnyTeam/SillyBunny-Deep-Swipe) — SillyBunny fork of Deep Swipe: regenerate or browse swipes on any message in the chat, not just the last one.
+
+### Special Thanks
+- [platberlitz (purachina)](https://github.com/platberlitz), for initially brainstorming and starting the project, and being a very active contributor. We wish you well going forward.

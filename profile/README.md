@@ -6,7 +6,7 @@ This organization also hosts extensions for SillyBunny made by the devs.
 
 > SillyBunny is currently in active development and considered beta quality. Report specific SillyBunny issues on the main repo, and extension issues on the specific extension repos.
 
-## Main Contributors
+## Organization Maintainers
 - [Geechan](https://github.com/Geechan)
 - [TheLonelyDevil9 (TLD)](https://github.com/TheLonelyDevil9)
 

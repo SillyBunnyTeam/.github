@@ -9,6 +9,7 @@ This organization also hosts extensions for SillyBunny made by the devs.
 ## Organization Members
 - [Geechan](https://github.com/Geechan)
 - [TheLonelyDevil9 (TLD)](https://github.com/TheLonelyDevil9)
+- [voldomero](https://github.com/voldomero)
 
 ## Extensions and Projects
 
@@ -34,6 +35,7 @@ This organization also hosts extensions for SillyBunny made by the devs.
 - [Moonlit Echoes Theme](https://github.com/SillyBunnyTeam/SillyBunny-MoonlitEchoesTheme) — A SillyBunny-specific adaptation of the Moonlit Echoes theme.
 - [CSS Snippets](https://github.com/SillyBunnyTeam/SillyBunny-CssSnippets) — Manage reusable CSS customizations for themes, chats, and the global interface.
 - [Deep Swipe](https://github.com/SillyBunnyTeam/SillyBunny-Deep-Swipe) — SillyBunny fork of Deep Swipe: regenerate or browse swipes on any message in the chat, not just the last one.
+- [Alternate Descriptions](https://github.com/SillyBunnyTeam/SillyBunny-AlternateDescriptions) — Keep multiple versions of a character's fields in one card and allows switching between them.
 
 ## Special Thanks
 **Project Founder:** - [platberlitz (purachina)](https://github.com/platberlitz) Founded SillyBunny and authored the core foundation for the project.

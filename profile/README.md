@@ -32,7 +32,6 @@ This organization also hosts extensions for SillyBunny made by the devs.
 
 ### Forks and Adaptations
 
-- [Moonlit Echoes Theme](https://github.com/SillyBunnyTeam/SillyBunny-MoonlitEchoesTheme) — A SillyBunny-specific adaptation of the Moonlit Echoes theme.
 - [CSS Snippets](https://github.com/SillyBunnyTeam/SillyBunny-CssSnippets) — Manage reusable CSS customizations for themes, chats, and the global interface.
 - [Deep Swipe](https://github.com/SillyBunnyTeam/SillyBunny-Deep-Swipe) — SillyBunny fork of Deep Swipe: regenerate or browse swipes on any message in the chat, not just the last one.
 - [Alternate Descriptions](https://github.com/SillyBunnyTeam/SillyBunny-AlternateDescriptions) — Keep multiple versions of a character's fields in one card and allows switching between them.
